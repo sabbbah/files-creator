@@ -57,7 +57,7 @@ Task Completed!
 1. Run the script:
 
    ```bash
-   python files_creator.py
+   python app.py
    ```
 
 2. Follow the on-screen prompts:
